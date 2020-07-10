@@ -1,10 +1,25 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+  name: Woodrow Wilson High School
+  dates: 2017 - Present
+  qualification: High School Diploma
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    We will provide an exceptional comprehensive high school experience through Linked Learning Pathways so every Wilson Bruin will be a successful and productive citizen.
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    My time at Wilson High School was spent mostly in the Tech Pathway, constantly learning and engaging with others in the field of cybersecurity, web development, and computer fundamentals.
+- layout: right
+  name: Long Beach City College
+  dates: 2019 - Present
+  qualification: College Credits
+  quote: >
+    Long Beach City College is committed to providing equitable student learning and achievement, academic excellence, and workforce development by delivering high-quality educational programs and support services to our diverse communities.
+  description: | # this will include new lines to allow paragraphs
+    The four long years of high school leave plenty of room to hone my skills, so I've been dual-enrolled in college for a collective 2 years worth of credits at the same time as my high school experience. Not only would this allow me to rapidly acquire high school credits but also score great experiences and a superior education.
+    I took upon myself the task of furthering my career as a programer by taking courses such as COSN10, and by collecting a TestOut Network Pro Certificate.
+    TestOut Network Pro proves skills in: 
+      • Cables and Connectors
+      • Wired Networking
+      • Wireless Networking
+      • Network Connection Configuration
+      • Network Services
+      • Network Security
+      • Network Troubleshooting
