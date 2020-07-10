@@ -23,10 +23,11 @@ linkedin_username: kevin-reyes-966a22157
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
+quote: >
+  Bi-Lingual High Achieving High School Student with a passion for Computer Science and Information Security, experienced with Computers on the Hardware and Software level.
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+    My name is Kevin and I am a Backend Developer with exprinece in <mark>Python</mark>,<mark>Nodejs</mark>,<mark>React</mark>, and other usual extentions of those languges like <mark>Express.js</mark>, <mark>MongoDB</mark>, <mark>PHP</mark>, <mark>HTML</mark>, and <mark>CSS</mark>.
+    Also experinced in secure apis with mern stacks.
 
 # Projects Section
 # projects_title: Projects
@@ -39,12 +40,12 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+# more_content: | # this will include new lines to allow paragraphs
+#   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#    - Rock climbing
+#    - Gaming
+#    - Knitting
+#    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
 footer_show_references: true
