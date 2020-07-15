@@ -7,4 +7,5 @@
    The Local Sport App; Made by Locals, For Locals
   description: | # this will include new lines to allow paragraphs
     To start, Athline is a collaborative project between high school students thus not technically a job, however, its grand schema and overall goal make it ambitiously close to the real deal.
+
     My role at Athline involved the development of the Backend APIs, as well as, the deployment of the servers running these APIs. From, secure user authentication, database integration, hot memory caching integration, and algorithm-based MMR Player scoring systems to DNS Server maintenance, domain registration, and integration with popular tools such as Cloudflare.
