@@ -1,6 +1,6 @@
 - layout: top-middle
   name: Discord Webhook Translator Service
-  link: github.com/kvrnn
+  link: github.com/kvrnn/DiscordWebhookService
   github: kvrnn/DiscordWebhookService
   quote: >
     Born out of madness.
