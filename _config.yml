@@ -26,7 +26,7 @@ about_profile_image: images/profile.jpg
 quote: >
   Bi-Lingual High Achieving High School Student with a passion for Computer Science and Information Security, experienced with Computers on the Hardware and Software level.
 about_content: | # this will include new lines to allow paragraphs
-    My name is Kevin and I am a Backend Developer with exprinece in <mark>Python</mark>,<mark>Nodejs</mark>,<mark>React</mark>, and other usual extentions of those languges like <mark>Express.js</mark>, <mark>MongoDB</mark>, <mark>PHP</mark>, <mark>HTML</mark>, and <mark>CSS</mark>.
+    My name is Kevin and I am a Backend Developer with experience in <mark>Python</mark>,<mark>Nodejs</mark>,<mark>React</mark>, and other usual extentions of those languges like <mark>Express.js</mark>, <mark>MongoDB</mark>, <mark>PHP</mark>, <mark>HTML</mark>, and <mark>CSS</mark>.
 
     Also experienced in secure APIs with mern stacks.
 
