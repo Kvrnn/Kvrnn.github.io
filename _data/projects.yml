@@ -1,8 +1,9 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: Discord Webhook Translator Service
+  link: github.com/kvrnn
+  github: kvrnn/DiscordWebhookService
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    Born out of madness.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+       I use many server hosting services and sometimes these services don't offer an easy way to integrate Discord, a popular modern IRC, to my projects. Those who do offer webhooks, oftentimes, only comfort to specific services such as Slack. Thus, leading me to create a simple Multidimential Array Parser and hook services.
+       Discord Webhook Service was a personal project that servers the purpose of taking any 3rd Party Webhook (*cough*heroku*cough*) and parsing through it to shape to a compatible data structure discord would accept.
