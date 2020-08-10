@@ -1,11 +1,3 @@
-- layout: left
-  name: Woodrow Wilson High School
-  dates: 2017 - Present
-  qualification: High School Diploma
-  quote: >
-    We will provide an exceptional comprehensive high school experience through Linked Learning Pathways so every Wilson Bruin will be a successful and productive citizen.
-  description: | # this will include new lines to allow paragraphs
-    My time at Wilson High School was spent mostly in the Tech Pathway, constantly learning and engaging with others in the field of cybersecurity, web development, and computer fundamentals.
 - layout: right
   name: Long Beach City College
   dates: 2019 - Present
@@ -32,3 +24,14 @@
       • Network Security
 
       • Network Troubleshooting
+
+- layout: left
+  name: Woodrow Wilson High School
+  dates: 2017 - Present
+  qualification: High School Diploma
+  quote: >
+    We will provide an exceptional comprehensive high school experience through Linked Learning Pathways so every Wilson Bruin will be a successful and productive citizen.
+  description: | # this will include new lines to allow paragraphs
+    My time at Wilson High School was spent mostly in the Tech Pathway, constantly learning and engaging with others in the field of cybersecurity, web development, and computer fundamentals.
+
+
