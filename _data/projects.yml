@@ -7,4 +7,4 @@
   description: | # this will include new lines to allow paragraphs
        I use many server hosting services and sometimes these services don't offer an easy way to integrate Discord, a popular modern IRC, to my projects. Those who do offer webhooks, oftentimes, only comfort to specific services such as Slack. Thus, leading me to create a simple Multidimential Array Parser and hook services.
 
-       Discord Webhook Service was a personal project that servers the purpose of taking any 3rd Party Webhook (*cough* heroku *cough*) and parsing through it to shape to a compatible data structure discord would accept.
+       Discord Webhook Service was a personal project that servers the purpose of taking any 3rd Party Webhook (*cough* heroku *cough*) and parsing through it to shape to a compatible data structure Discord would accept.
